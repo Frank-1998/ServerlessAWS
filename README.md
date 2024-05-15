@@ -7,5 +7,5 @@ Create a Serverless web app enables users to request unicorn rides from the Wild
 ### Technologies
 HTML, JavaScript, CSS, AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon Cognito, AWS Amplify Console. 
 
-## Project Structure
+### Project Structure
 ![project_structure](/image/ProjectStructure.png)
